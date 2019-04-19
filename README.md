@@ -24,19 +24,19 @@ Binary install https://hackmd.io/s/r1zBPCgqE
 Building
 ========
 
-git clone 
+git clone https://github.com/YuehChuan/pkg_ws
 
 
 To compile the code, 
 ```
-    cd pkg_ws
+    cd ~/pkg_ws
     
     clocon build --symlink-install
 ```
 How to Fly
 ========
 
-**2.and listener demos**
+**2. talk and listener demos**
 
 
 Open 2 terminals shows like this, you can utilize byobu tool.
