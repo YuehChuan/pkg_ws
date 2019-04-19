@@ -4,10 +4,6 @@ ros2 workspace python packages for demos
 
 ubuntu18.04 ROS2 Crystal Clemmys 
 
-Demo videos 1
-===
-
-
 
 Installation
 ===
@@ -36,7 +32,7 @@ To compile the code,
 How to Fly
 ========
 
-**2. talk and listener demos**
+** talk and listener demos**
 
 
 Open 2 terminals shows like this, you can utilize byobu tool.
